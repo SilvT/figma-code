@@ -1,0 +1,196 @@
+{
+  "Dropdown-item": {
+    "Default": {
+      "Content": {
+        "$type": "color",
+        "$value": "{Primary.700}"
+      },
+      "background": {
+        "$type": "color",
+        "$value": "{Primary-600-A15}"
+      },
+      "background-border": {
+        "$type": "color",
+        "$value": "{A0}"
+      },
+      "border-thickness": {
+        "$type": "number",
+        "$value": 0
+      },
+      "selection-border": {
+        "$type": "color",
+        "$value": "{Primary.700}"
+      }
+    }
+  },
+  "Radio-Button": {
+    "Default": {
+      "Border": {
+        "$type": "color",
+        "$value": "{Primary.700}"
+      },
+      "Label": {
+        "$type": "color",
+        "$value": "{Primary.700}"
+      },
+      "Overlay": {
+        "$type": "color",
+        "$value": "{Primary-200-A30}"
+      },
+      "overlay_border": {
+        "$type": "number",
+        "$value": 0
+      }
+    }
+  },
+  "Switch": {
+    "Off": {
+      "Background": {
+        "$type": "color",
+        "$value": "{Primary-500-A15}"
+      },
+      "Border": {
+        "$type": "color",
+        "$value": "{A0}"
+      },
+      "Border_thickness": {
+        "$type": "number",
+        "$value": 0
+      },
+      "Button": {
+        "$type": "color",
+        "$value": "{Primary.600}"
+      },
+      "Label": {
+        "$type": "color",
+        "$value": "{Primary.500}"
+      }
+    },
+    "On": {
+      "Background": {
+        "$type": "color",
+        "$value": "{Primary-500-A15}"
+      },
+      "Border": {
+        "$type": "color",
+        "$value": "{A0}"
+      },
+      "Border_thickness": {
+        "$type": "number",
+        "$value": 0
+      },
+      "Button": {
+        "$type": "color",
+        "$value": "{Primary.400}"
+      },
+      "Label": {
+        "$type": "color",
+        "$value": "{Primary.500}"
+      }
+    }
+  },
+  "checkbox": {
+    "Default": {
+      "Background": {
+        "$type": "color",
+        "$value": "{Neutral-0-A20}"
+      },
+      "Border": {
+        "$type": "color",
+        "$value": "{Primary.700}"
+      },
+      "Border-thickness": {
+        "$type": "number",
+        "$value": 0.8
+      },
+      "Label": {
+        "$type": "color",
+        "$value": "{Cards.text.hover:focus}"
+      },
+      "Overlay": {
+        "$type": "color",
+        "$value": "{Primary-200-A30}"
+      },
+      "Overlay border": {
+        "$type": "color",
+        "$value": "{A0}"
+      },
+      "Overlay-border-thickness": {
+        "$type": "number",
+        "$value": 0
+      },
+      "spacings": {
+        "$type": "number",
+        "$value": "{Spacing.xs}"
+      }
+    },
+    "Disabled": {
+      "Background": {
+        "$type": "color",
+        "$value": "{Neutral-0-A20}"
+      },
+      "Border": {
+        "$type": "color",
+        "$value": "{Neutral.300}"
+      },
+      "Border-thickness": {
+        "$type": "number",
+        "$value": 0.8
+      },
+      "Label": {
+        "$type": "color",
+        "$value": "{Neutral.500}"
+      },
+      "Overlay": {
+        "$type": "color",
+        "$value": "{Neutral-100-A50}"
+      },
+      "Overlay border": {
+        "$type": "color",
+        "$value": "{A0}"
+      },
+      "Overlay-border-thickness": {
+        "$type": "number",
+        "$value": 0
+      },
+      "spacings": {
+        "$type": "number",
+        "$value": "{Spacing.xs}"
+      }
+    },
+    "Error": {
+      "Background": {
+        "$type": "color",
+        "$value": "{Neutral-0-A20}"
+      },
+      "Border": {
+        "$type": "color",
+        "$value": "{Alerts.Error.Fill}"
+      },
+      "Border-thickness": {
+        "$type": "number",
+        "$value": 0.8
+      },
+      "Label": {
+        "$type": "color",
+        "$value": "{Alerts.Error.Text}"
+      },
+      "Overlay": {
+        "$type": "color",
+        "$value": "{Alerts.Error.Background}"
+      },
+      "Overlay border": {
+        "$type": "color",
+        "$value": "{A0}"
+      },
+      "Overlay-border-thickness": {
+        "$type": "number",
+        "$value": 0
+      },
+      "spacings": {
+        "$type": "number",
+        "$value": "{Spacing.xs}"
+      }
+    }
+  }
+}
