@@ -1,0 +1,62 @@
+{
+  "Checkbox": {
+    "checkmark": {
+      "$type": "color",
+      "$value": "{A0}"
+    },
+    "checkmark-disabled": {
+      "$type": "color",
+      "$value": "{A0}"
+    },
+    "checkmark-error": {
+      "$type": "color",
+      "$value": "{A0}"
+    }
+  },
+  "Radio": {
+    "Default": {
+      "in-fill": {
+        "$type": "color",
+        "$value": "{A0}"
+      },
+      "out-border": {
+        "$type": "color",
+        "$value": "{Primary.700}"
+      }
+    },
+    "Disable": {
+      "in-fill": {
+        "$type": "color",
+        "$value": "{A0}"
+      },
+      "out-border": {
+        "$type": "color",
+        "$value": "{Neutral.300}"
+      }
+    },
+    "border-radius": {
+      "$type": "number",
+      "$value": 10
+    },
+    "in-border": {
+      "$type": "number",
+      "$value": 0.7
+    },
+    "out-border": {
+      "$type": "number",
+      "$value": 1.5
+    }
+  },
+  "Switch": {
+    "Disabled": {
+      "background": {
+        "$type": "color",
+        "$value": "{Neutral.050}"
+      },
+      "button": {
+        "$type": "color",
+        "$value": "{Neutral.100}"
+      }
+    }
+  }
+}

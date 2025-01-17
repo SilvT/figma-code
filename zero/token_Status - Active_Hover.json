@@ -1,0 +1,108 @@
+{
+  "Chip": {
+    "User": {
+      "Background": {
+        "$type": "color",
+        "$value": "{gradient}"
+      },
+      "Border": {
+        "$type": "color",
+        "$value": "{A0}"
+      },
+      "Content": {
+        "$type": "color",
+        "$value": "{Primary.700}"
+      }
+    }
+  },
+  "Dropdown": {
+    "Background": {
+      "$type": "color",
+      "$value": "{gradient}"
+    },
+    "Content": {
+      "$type": "color",
+      "$value": "{Primary.700}"
+    },
+    "border-colour": {
+      "$type": "color",
+      "$value": "{A0}"
+    },
+    "overlay-border": {
+      "$type": "number",
+      "$value": 0
+    }
+  },
+  "Inputs": {
+    "Background": {
+      "$type": "color",
+      "$value": "{Primary-500-A15}"
+    },
+    "Content": {
+      "$type": "color",
+      "$value": "{Primary.700}"
+    },
+    "border-colour": {
+      "$type": "color",
+      "$value": "{A0}"
+    },
+    "overlay-border": {
+      "$type": "number",
+      "$value": 0
+    }
+  },
+  "Select arrows": {
+    "Background": {
+      "$type": "color",
+      "$value": "{Primary-500-A15}"
+    },
+    "Border": {
+      "$type": "color",
+      "$value": "{A0}"
+    },
+    "Content": {
+      "$type": "color",
+      "$value": "{Primary.700}"
+    },
+    "Inactive_content": {
+      "$type": "color",
+      "$value": "{Neutral-950-A30}"
+    }
+  },
+  "Tabs": {
+    "Background": {
+      "$type": "color",
+      "$value": "{Primary-400-A20}"
+    },
+    "Content": {
+      "$type": "color",
+      "$value": "{Primary.700}"
+    },
+    "border-colour": {
+      "$type": "color",
+      "$value": "{Primary.700}"
+    },
+    "overlay-border": {
+      "$type": "number",
+      "$value": 0
+    }
+  },
+  "Text_action": {
+    "Background": {
+      "$type": "color",
+      "$value": "{Primary-300-A5}"
+    },
+    "Content": {
+      "$type": "color",
+      "$value": "{Primary.700}"
+    },
+    "border-colour": {
+      "$type": "color",
+      "$value": "{Primary.700}"
+    },
+    "overlay-border": {
+      "$type": "number",
+      "$value": 0
+    }
+  }
+}

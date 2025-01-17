@@ -1,0 +1,10 @@
+{
+  "icon_size": {
+    "$type": "number",
+    "$value": 20
+  },
+  "table_row_size": {
+    "$type": "number",
+    "$value": 100
+  }
+}
