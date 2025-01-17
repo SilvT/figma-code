@@ -1,0 +1,171 @@
+{
+  "Button": {
+    "primary": {
+      "Disabled": {
+      },
+      "active": {
+      },
+      "default": {
+      },
+      "focus": {
+      },
+      "focus_hover": {
+      },
+      "hover": {
+      }
+    },
+    "secondary": {
+      "Disabled": {
+      },
+      "active": {
+      },
+      "default": {
+      },
+      "focus": {
+      },
+      "focus_hover": {
+      },
+      "hover": {
+      }
+    },
+    "tertiary": {
+      "Disabled": {
+      },
+      "active": {
+      },
+      "default": {
+      },
+      "focus": {
+      },
+      "focus_hover": {
+      },
+      "hover": {
+      }
+    }
+  },
+  "Calendar_items": {
+    "background": {
+    }
+  },
+  "Cards": {
+    "Colour": {
+    },
+    "Group": {
+    },
+    "text": {
+    }
+  },
+  "Chips": {
+    "active": {
+    },
+    "default": {
+    },
+    "focus": {
+    },
+    "focus_hover": {
+    },
+    "hover": {
+    }
+  },
+  "Icons": {
+  },
+  "Input_field": {
+    "active_focus": {
+      "CapsLock": {
+      },
+      "border-bottom-thickness": {
+        "$type": "number",
+        "$value": 3
+      },
+      "border-thickness": {
+        "$type": "number",
+        "$value": 1,
+        "$description": "Only in focus state for top, right and left borders. Bottom border maintains thickness."
+      },
+      "error": {
+      },
+      "success": {
+      }
+    },
+    "active_hover": {
+      "CapsLock": {
+      },
+      "border-bottom-thickness": {
+        "$type": "number",
+        "$value": 3
+      },
+      "error": {
+      },
+      "success": {
+      }
+    },
+    "default": {
+      "border-bottom-thickness": {
+        "$type": "number",
+        "$value": 1
+      },
+      "error": {
+        "border-thickness": {
+          "$type": "number",
+          "$value": 3
+        }
+      },
+      "filled": {
+        "border-bottom-thickness": {
+          "$type": "number",
+          "$value": 3
+        }
+      },
+      "success": {
+        "border-bottom-thickness": {
+          "$type": "number",
+          "$value": 3
+        }
+      }
+    },
+    "disabled": {
+      "border-thickness": {
+        "$type": "number",
+        "$value": 1
+      }
+    }
+  },
+  "Titles": {
+  },
+  "body": {
+  },
+  "disabled input": {
+    "border-thickness": {
+      "$type": "number",
+      "$value": "{Disabled.border}"
+    }
+  },
+  "menu_item": {
+    "active": {
+    },
+    "active-focus": {
+      "border-thickness": {
+        "$type": "number",
+        "$value": 1
+      }
+    },
+    "active-hover": {
+    },
+    "border-thickness": {
+      "$type": "number",
+      "$value": 0
+    },
+    "disabled": {
+    },
+    "inactive": {
+    },
+    "inactive-focus": {
+      "border-thickness": {
+        "$type": "number",
+        "$value": 1
+      }
+    },
+    "inactive-hover": {
+    }
+  }
+}
