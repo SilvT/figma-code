@@ -20,4 +20,24 @@
   --gradientDropdownHoverBackground: linear-gradient(90deg, var(--colorPrimary050) 50%, var(--colorPrimary100) 100%);
   --gradientSwitchPressBackgroundOn: linear-gradient(-90deg, var(--colorPrimary050) 0%, var(--colorPrimary100) 100%);
   --gradientSwitchPressBackgroundOff: linear-gradient(-90deg, var(--colorPrimary100) 0%, var(--colorPrimary050) 100%);
+  --gradientButtonPrimaryFocusHoverBackground: linear-gradient(90deg, var(--colorPrimary300) 0%, var(--colorPrimary600) 100%);
+  --gradientButtonPrimaryHoverBackground: linear-gradient(90deg, var(--colorPrimary300) 0%, var(--colorPrimary600) 100%);
+  --gradientButtonSecondaryHoverBackground: linear-gradient(90deg, var(--colorPrimary200) 0%, var(--colorPrimary300) 100%);
+  --gradientButtonTertiaryFocusHoverBackground: linear-gradient(90deg, var(--colorPrimary050) 0%, var(--colorPrimary200) 100%);
+  --gradientButtonTertiaryHoverBackground: linear-gradient(90deg, var(--colorPrimary050) 0%, var(--colorPrimary200) 100%);
+  --gradientGradientBackground: radial-gradient(circle, var(--colorBackgroundGradient85) 0%, var(--colorBackgroundGradient0) 85%);
+  --gradientButtonSecondaryFocusHoverBackground: linear-gradient(90deg, var(--colorPrimary200) 0%, var(--colorPrimary300) 100%);
+  --gradientGradientGraphs: linear-gradient(-90deg, var(--colorGraphsGradient0) 0%, var(--colorGraphsGradient50) 50%, var(--colorGraphsGradient100) 100%);
+  --gradientInputFieldBorderFeedbackActive: linear-gradient(90deg, var(--colorPrimary700) 0%, var(--colorPrimary500) 50%, var(--colorPrimary300) 100%);
+  --gradientAlertsInfoBorder: linear-gradient(90deg, var(--colorPrimary700) 0%, var(--colorPrimary500) 50%, var(--colorPrimary300) 100%);
+  --gradientAlertsErrorBorder: linear-gradient(90deg, var(--colorAlertsWarningText) 0%, var(--colorAlertsErrorFill) 100%);
+  --gradientAlertsSuccessBorder: linear-gradient(90deg, var(--colorAlertsSuccessFill) 0%, var(--colorAlertsSuccessText) 100%);
+  --gradientAlertsWarningBorder: linear-gradient(90deg, var(--colorAlertsWarningAlternativeText) 0%, var(--colorAlertsWarningFill) 77.5%);
+  --gradientInputFieldBorderFeedbackSuccess: linear-gradient(90deg, var(--colorAlertsSuccessFill) 0%, var(--colorAlertsSuccessText) 100%);
+  --gradientInputFieldBorderFeedbackError: linear-gradient(90deg, var(--colorAlertsWarningText) 0%, var(--colorAlertsErrorFill) 100%);
+  --gradientChipsHoverBackground: linear-gradient(90deg, var(--colorPrimary050) 50%, var(--colorPrimary100) 100%);
+  --gradientChipsFocusHoverBackground: linear-gradient(90deg, var(--colorPrimary050) 50%, var(--colorPrimary100) 100%);
+  --gradientDropdownHoverBackground: linear-gradient(90deg, var(--colorPrimary050) 50%, var(--colorPrimary100) 100%);
+  --gradientSwitchPressBackgroundOn: linear-gradient(-90deg, var(--colorPrimary050) 0%, var(--colorPrimary100) 100%);
+  --gradientSwitchPressBackgroundOff: linear-gradient(-90deg, var(--colorPrimary100) 0%, var(--colorPrimary050) 100%);
 }

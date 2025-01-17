@@ -22,4 +22,22 @@
   --typographyTitleH5: var(--stringTypographyFontWeightSemiBold) var(--dimensionTypographyFontSize12)/var(--dimensionTypographyLineHeight18) var(--stringTypographyFontFamily);
   --typographyTitleH6: var(--stringTypographyFontWeightSemiBold) var(--dimensionTypographyFontSize10)/var(--dimensionTypographyLineHeight16) var(--stringTypographyFontFamily);
   --typographyOthersSmallData: var(--stringTypographyFontWeightSemiBold) var(--dimensionTypographyFontSize8)/var(--dimensionTypographyLineHeight16) var(--stringTypographyFontFamily);
+  --typographyTitleH0: var(--stringTypographyFontWeightSemiBold) var(--dimensionTypographyFontSize40)/var(--dimensionTypographyLineHeight46) var(--stringTypographyFontFamily);
+  --typographyTitleH1: var(--stringTypographyFontWeightSemiBold) var(--dimensionTypographyFontSize30)/var(--dimensionTypographyLineHeight36) var(--stringTypographyFontFamily);
+  --typographyHiglightNumbersN1: var(--stringTypographyFontWeightMedium) var(--dimensionTypographyFontSize45)/var(--dimensionTypographyLineHeight51) var(--stringTypographyFontFamily);
+  --typographyHiglightNumbersN2: var(--stringTypographyFontWeightBold) var(--dimensionTypographyFontSize22)/var(--dimensionTypographyLineHeight28) var(--stringTypographyFontFamily);
+  --typographyHiglightNumbersN3: var(--stringTypographyFontWeightRegular) var(--dimensionTypographyFontSize20)/var(--dimensionTypographyLineHeight26) var(--stringTypographyFontFamily);
+  --typographyHiglightNumbersN4: var(--stringTypographyFontWeightSemiBold) var(--dimensionTypographyFontSize12)/var(--dimensionTypographyLineHeight18) var(--stringTypographyFontFamily);
+  --typographyBodyB1: var(--stringTypographyFontWeightMedium) var(--dimensionTypographyFontSize16)/var(--dimensionTypographyLineHeight20) var(--stringTypographyFontFamily);
+  --typographyBodyB2: var(--stringTypographyFontWeightRegular) var(--dimensionTypographyFontSize14)/var(--dimensionTypographyLineHeight20) var(--stringTypographyFontFamily);
+  --typographyTitleH2: var(--stringTypographyFontWeightSemiBold) var(--dimensionTypographyFontSize20)/var(--dimensionTypographyLineHeight26) var(--stringTypographyFontFamily);
+  /* Only to create hierarchy in title of app text display */
+  --typographyTitleH2Extrabold: 800 var(--dimensionTypographyFontSize20)/var(--dimensionTypographyLineHeight26) var(--stringTypographyFontFamily);
+  --typographyTitleH4: var(--stringTypographyFontWeightSemiBold) var(--dimensionTypographyFontSize14)/var(--dimensionTypographyLineHeight18) var(--stringTypographyFontFamily);
+  --typographyOthersSidebarEb: 800 var(--dimensionTypographyFontSize20)/var(--dimensionTypographyLineHeight26) var(--stringTypographyFontFamily);
+  --typographyOthersGraphsData: var(--stringTypographyFontWeightRegular) var(--dimensionTypographyFontSize8)/var(--dimensionTypographyLineHeight14) var(--stringTypographyFontFamily);
+  --typographyOthersLinkSmall: var(--stringTypographyFontWeightRegular) var(--dimensionTypographyFontSize10)/var(--dimensionTypographyLineHeight16) var(--stringTypographyFontFamily);
+  --typographyTitleH5: var(--stringTypographyFontWeightSemiBold) var(--dimensionTypographyFontSize12)/var(--dimensionTypographyLineHeight18) var(--stringTypographyFontFamily);
+  --typographyTitleH6: var(--stringTypographyFontWeightSemiBold) var(--dimensionTypographyFontSize10)/var(--dimensionTypographyLineHeight16) var(--stringTypographyFontFamily);
+  --typographyOthersSmallData: var(--stringTypographyFontWeightSemiBold) var(--dimensionTypographyFontSize8)/var(--dimensionTypographyLineHeight16) var(--stringTypographyFontFamily);
 }
