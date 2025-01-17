@@ -1,0 +1,24 @@
+{
+  "source": [
+    "tokens.json"
+  ],
+  "platforms": {
+    "css": {
+      "transformGroup": "css",
+      "buildPath": "build/css/",
+      "files": [
+        {
+          "destination": "Avariables.css",
+          "format": "css/variables",
+          "options": {
+            "outputReferences": false,
+            "options.showFileHeader": false,
+            "options.selector": "core-"
+        
+          }
+        }
+      ]
+    }
+  }
+}
+
