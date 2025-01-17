@@ -1,0 +1,136 @@
+{
+  "Background-gradient": {
+    "0%": {
+      "$type": "color",
+      "$value": "{Neutral.000}"
+    },
+    "85%": {
+      "$type": "color",
+      "$value": "{Primary-600-A15}"
+    }
+  },
+  "Disabled": {
+    "Background": {
+      "$type": "color",
+      "$value": "{A0}"
+    },
+    "Border": {
+      "$type": "color",
+      "$value": "{Neutral.300}"
+    },
+    "Content": {
+      "$type": "color",
+      "$value": "{Neutral.300}"
+    },
+    "Overlay": {
+      "$type": "color",
+      "$value": "{Neutral-100-A50}"
+    },
+    "border": {
+      "$type": "number",
+      "$value": 0.8
+    }
+  },
+  "Graphs": {
+    "Fill": {
+      "1": {
+        "$type": "color",
+        "$value": "{Primary.600}"
+      },
+      "1_alternate": {
+        "$type": "color",
+        "$value": "{Neutral.000}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{Primary.500}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{Primary.400}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{Primary.800}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{Primary.300}"
+      },
+      "fill_transparent": {
+        "$type": "color",
+        "$value": "{Primary-400-A40}"
+      }
+    },
+    "Gradient": {
+      "0%": {
+        "$type": "color",
+        "$value": "{Primary.300}"
+      },
+      "100%": {
+        "$type": "color",
+        "$value": "{Alerts.Success.Fill}"
+      },
+      "50%": {
+        "$type": "color",
+        "$value": "{Primary.500}"
+      }
+    },
+    "bg": {
+      "$type": "color",
+      "$value": "{Neutral.100}"
+    },
+    "bg_inverted": {
+      "$type": "color",
+      "$value": "{Neutral-0-A20}"
+    }
+  },
+  "Placeholder": {
+    "Alt": {
+      "$type": "color",
+      "$value": "{Primary-400-A40}"
+    },
+    "Contrast": {
+      "$type": "color",
+      "$value": "{Neutral-500-A50}"
+    },
+    "Default": {
+      "$type": "color",
+      "$value": "{Neutral-100-A50}"
+    }
+  },
+  "Text": {
+    "Disabled": {
+      "$type": "color",
+      "$value": "{Disabled.Content}"
+    },
+    "Hidden": {
+      "$type": "color",
+      "$value": "{A0}"
+    },
+    "Primary": {
+      "Default": {
+        "$type": "color",
+        "$value": "{Primary.800}"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "{Primary.700}"
+      }
+    },
+    "Secondary": {
+      "Default": {
+        "$type": "color",
+        "$value": "{Neutral.900}"
+      },
+      "Focus": {
+        "$type": "color",
+        "$value": "{Primary.950}"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "{Neutral-950-A70}"
+      }
+    }
+  }
+}
